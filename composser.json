@@ -1,20 +1,15 @@
 {
 	"name": "milenial/rest-call",
+	"type": "library",
 	"description": "Simple PHP Rest Call",
-	"keywords": [
-		"rest",
-		"json"
-	],
+	"keywords": ["rest","json"],
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Milenial Inspiration",
-			"homepage": "https://github.com/milenice/rest-call"
+			"name": "Andi Kurniawan",
+			"email": "andi.xurniawan@gmail.com",
+			"homepage": "https://github.com/adxio",
+			"role": "Founder"
 		}
-	],
-	"require": {
-		"php": ">=7.0",
-		"codeigniter/framework": "^3.1.0",
-		"twig/twig": "2.6.2"
-	}
+	]
 }
