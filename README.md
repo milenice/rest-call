@@ -1,4 +1,4 @@
-# Codeigniter Twig and HMVC
+# PHP Rest Call
 [![Latest Stable Version](https://poser.pugx.org/milenis/rest-call/v/stable)](https://packagist.org/packages/milenis/rest-call)
 [![Total Downloads](https://poser.pugx.org/milenis/rest-call/downloads)](https://packagist.org/packages/milenis/rest-call)
 [![Latest Unstable Version](https://poser.pugx.org/milenis/rest-call/v/unstable)](https://packagist.org/packages/milenis/rest-call)
