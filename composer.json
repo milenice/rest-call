@@ -1,5 +1,5 @@
 {
-	"name": "milenial/php-restcall",
+	"name": "millennial/php-restcall",
 	"type": "library",
 	"description": "Simple PHP Rest Call",
 	"keywords": ["rest","json"],
