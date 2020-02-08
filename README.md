@@ -1,8 +1,8 @@
 # PHP Rest Call
-[![Latest Stable Version](https://poser.pugx.org/milenis/php-restcall/v/stable)](https://packagist.org/packages/milenis/php-restcall)
-[![Total Downloads](https://poser.pugx.org/milenis/php-restcall/downloads)](https://packagist.org/packages/milenis/php-restcall)
-[![Latest Unstable Version](https://poser.pugx.org/milenis/php-restcall/v/unstable)](https://packagist.org/packages/milenis/php-restcall)
-[![License](https://poser.pugx.org/milenis/php-restcall/license)](https://packagist.org/packages/milenis/php-restcall)
+[![Latest Stable Version](https://poser.pugx.org/milenial/php-restcall/v/stable)](https://packagist.org/packages/milenial/php-restcall)
+[![Total Downloads](https://poser.pugx.org/milenial/php-restcall/downloads)](https://packagist.org/packages/milenial/php-restcall)
+[![Latest Unstable Version](https://poser.pugx.org/milenial/php-restcall/v/unstable)](https://packagist.org/packages/milenial/php-restcall)
+[![License](https://poser.pugx.org/milenial/php-restcall/license)](https://packagist.org/packages/milenial/php-restcall)
 
 Simple Rest Call Api
 
